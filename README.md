@@ -1,1 +1,1 @@
-# All-Event-Quests-and-Palicos-MH-XX-MH-GU
+# All Event Quests and Palicos MH XX and MH GenU
