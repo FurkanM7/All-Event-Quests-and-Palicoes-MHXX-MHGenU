@@ -1,7 +1,5 @@
 # All Event Quests and Palicoes MH XX and MH GenU Save files
 
-## Introduction
-
 This repository contains save files for *Monster Hunter Generations Ultimate* (Nintendo Switch) and *Monster Hunter XX* (Nintendo Switch & Nintendo 3DS). The saves include all event quests and all event Palicoes officially distributed over the years.
 
 All event Palicoes were provided by **Levobertus** on Reddit, who has spent years helping hunters obtain event Palicoes by manually trading them with anyone in need, including myself. He also created a detailed spreadsheet containing information about which Palicoes have which abilities:
